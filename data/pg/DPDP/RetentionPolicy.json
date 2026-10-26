@@ -1,0 +1,30 @@
+{
+  "tenantId": "pg",
+  "moduleName": "DPDP",
+  "RetentionPolicy": [
+    {
+      "code": "PROPERTY_TAX_DEFAULT",
+      "name": "[PLACEHOLDER] Property tax statutory retention — set retentionDays per applicable state/ULB law",
+      "retentionDays": null,
+      "action": "SOFT_DELETE",
+      "basis": "STATUTORY_FUNCTION",
+      "placeholder": true
+    },
+    {
+      "code": "TRADE_LICENSE_DEFAULT",
+      "name": "[PLACEHOLDER] Trade licence statutory retention — set retentionDays per applicable state/ULB law",
+      "retentionDays": null,
+      "action": "SOFT_DELETE",
+      "basis": "STATUTORY_FUNCTION",
+      "placeholder": true
+    },
+    {
+      "code": "ALERTS_DEFAULT",
+      "name": "[PLACEHOLDER] Optional alerts retention — set retentionDays per applicable state/ULB law",
+      "retentionDays": null,
+      "action": "SOFT_DELETE",
+      "basis": "CONSENT",
+      "placeholder": true
+    }
+  ]
+}

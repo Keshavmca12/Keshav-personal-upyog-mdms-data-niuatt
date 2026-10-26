@@ -657,17 +657,17 @@
       "name": "Sewerage Report Viewer",
       "description": "Sewerage Connection User that can view reports"
     },
-	{
+    {
       "code": "PT_REPORT_VIEWER",
       "name": "PT Report Viewer",
       "description": "PT User that can view tabular reports"
     },
-	{
+    {
       "code": "PGR_REPORT_VIEWER",
       "name": "PGR Report Viewer",
       "description": "PGR User that can view tabular reports"
     },
-	{
+    {
       "code": "MCOLLECT_REPORT_VIEWER",
       "name": "MCollect Report Viewer",
       "description": "MCollect User that can view tabular reports"
@@ -736,6 +736,21 @@
       "code": "LOC_ADMIN",
       "name": "Localisation admin",
       "description": "LOC_ADMIN"
+    },
+    {
+      "code": "DPDP_ADMIN",
+      "name": "DPDP Administrator",
+      "description": "Configures DPDP policies, scans, and consent administration"
+    },
+    {
+      "code": "DPO",
+      "name": "Data Protection Officer",
+      "description": "Handles rights requests, incidents, and compliance reporting"
+    },
+    {
+      "code": "DPDP_GRIEVANCE_OFFICER",
+      "name": "DPDP Grievance Officer",
+      "description": "Resolves privacy grievances under DPDP"
     }
   ]
 }

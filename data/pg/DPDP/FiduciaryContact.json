@@ -1,0 +1,15 @@
+{
+  "tenantId": "pg",
+  "moduleName": "DPDP",
+  "FiduciaryContact": [
+    {
+      "tenantId": "pg",
+      "dpoName": "[PLACEHOLDER] Data Protection Officer",
+      "dpoEmail": "PLACEHOLDER-dpo@state.example.gov.in",
+      "dpoPhone": "PLACEHOLDER-+91-0000000000",
+      "grievanceEmail": "PLACEHOLDER-privacy@state.example.gov.in",
+      "boardReportingEmail": "PLACEHOLDER-board@state.example.gov.in",
+      "placeholder": true
+    }
+  ]
+}

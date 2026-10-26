@@ -1,0 +1,121 @@
+{
+  "tenantId": "pg",
+  "moduleName": "DPDP",
+  "SupportedLocale": [
+    {
+      "code": "en_IN",
+      "name": "English (India)",
+      "translationRequired": false
+    },
+    {
+      "code": "hi_IN",
+      "name": "Hindi (India)",
+      "translationRequired": false
+    },
+    {
+      "code": "as_IN",
+      "name": "Assamese (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "bn_IN",
+      "name": "Bengali (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "brx_IN",
+      "name": "Bodhi (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "doi_IN",
+      "name": "Dogri (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "gu_IN",
+      "name": "Gujarati (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "kn_IN",
+      "name": "Kannada (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "ks_IN",
+      "name": "Kashmiri (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "kok_IN",
+      "name": "Konkani (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "mai_IN",
+      "name": "Maithili (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "ml_IN",
+      "name": "Malayalam (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "mni_IN",
+      "name": "Manipuri (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "mr_IN",
+      "name": "Marathi (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "ne_IN",
+      "name": "Nepali (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "or_IN",
+      "name": "Odia (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "pa_IN",
+      "name": "Punjabi (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "sa_IN",
+      "name": "Sanskrit (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "sat_IN",
+      "name": "Santali (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "sd_IN",
+      "name": "Sindhi (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "ta_IN",
+      "name": "Tamil (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "te_IN",
+      "name": "Telugu (India)",
+      "translationRequired": true
+    },
+    {
+      "code": "ur_IN",
+      "name": "Urdu (India)",
+      "translationRequired": true
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "tenantId": "pg",
+  "moduleName": "DPDP",
+  "FieldClassification": [
+    {
+      "field": "mobileNumber",
+      "classification": "PERSONAL",
+      "pattern": "(?i)mobile|phone"
+    },
+    {
+      "field": "email",
+      "classification": "PERSONAL",
+      "pattern": "(?i)email"
+    },
+    {
+      "field": "aadhaar",
+      "classification": "HIGH_RISK_PERSONAL",
+      "pattern": "(?i)aadhaar|aadhar"
+    },
+    {
+      "field": "pan",
+      "classification": "HIGH_RISK_PERSONAL",
+      "pattern": "(?i)pan"
+    },
+    {
+      "field": "bankAccount",
+      "classification": "FINANCIAL",
+      "pattern": "(?i)account|ifsc"
+    }
+  ]
+}

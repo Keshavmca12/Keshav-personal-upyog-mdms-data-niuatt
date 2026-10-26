@@ -1,0 +1,16 @@
+{
+  "tenantId": "pg",
+  "moduleName": "DPDP",
+  "DataProviderConfig": [
+    {
+      "applicationCode": "PT",
+      "searchUrl": "/property-services/property/_search",
+      "hostKey": "property"
+    },
+    {
+      "applicationCode": "USER",
+      "searchUrl": "/user/_search",
+      "hostKey": "user"
+    }
+  ]
+}
